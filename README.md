@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C++ Projects (OOP Projects)</b>
-  - [Bus Ticket Reservation System]
+  - [Bus Ticket Reservation System](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/README.md)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
