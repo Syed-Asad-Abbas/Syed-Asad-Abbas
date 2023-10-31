@@ -5,7 +5,7 @@
 - <b>C++ Projects (OOP Projects)</b>
   - [Bus Ticket Reservation System](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/README.md)
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation]
+  - [Active Directory Bulk User Creation](https://github.com/Syed-Asad-Abbas/ActiveDirectory-PS)
 - <b>DCN (Data communication & Networking) CISCO Packet Tracer</b>
   - [How to create a small LAN connection using two Switches and 1 Router]
 
