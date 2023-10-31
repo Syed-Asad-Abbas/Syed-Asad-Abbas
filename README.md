@@ -10,7 +10,7 @@
   - [How to create a small LAN connection using two Switches and 1 Router](https://github.com/Syed-Asad-Abbas/DCN-LAB#lab1)
   - [Connect a Router to a LAN Objectives Display Router Information Configure Router Interfaces Verify the Configuration](https://github.com/Syed-Asad-Abbas/DCN-LAB#lab2)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos</h2>(https://youtu.be/EyTo8RC83zs)
 
 
 <h2> 🤳 Connect with me:</h2>
