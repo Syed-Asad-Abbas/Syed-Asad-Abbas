@@ -5,10 +5,7 @@
 - <b>C++ Projects (OOP Projects)</b>
   - [Bus Ticket Reservation System](https://github.com/Syed-Asad-Abbas/CPP-Projects/blob/main/README.md)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Active Directory Bulk User Creation]
 - <b>DCN (Data communication & Networking) CISCO Packet Tracer</b>
   - [How to create a small LAN connection using two Switches and 1 Router]
 
