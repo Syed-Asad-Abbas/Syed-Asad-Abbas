@@ -1,5 +1,6 @@
 # Hello, I'm Syed Asad Abbas
 <a href="https://linkedin.com/in/SyedAsadAbbas1815"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
 <img src="https://img.shields.io/badge/-own%20Website-000000?&style=for-the-badge&logo=worldwide&logoColor=white" />
 
 
