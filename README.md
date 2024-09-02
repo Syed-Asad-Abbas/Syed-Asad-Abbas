@@ -1,6 +1,6 @@
 # Hello, I'm Syed Asad Abbas
 <a href="https://linkedin.com/in/SyedAsadAbbas1815"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://syedasadababs.netlify.app"><img src="https://img.shields.io/badge/-own%20Website-000000?&style=for-the-badge&logo=worldwide&logoColor=white" /></a>
+<a href="https://syedasadabbas.netlify.app"><img src="https://img.shields.io/badge/-own%20Website-000000?&style=for-the-badge&logo=worldwide&logoColor=white" /></a>
 
 
 I am a student who has completed half of a Bachelor's degree in Information and Technology, demonstrating a solid foundation in IT principles and practices
