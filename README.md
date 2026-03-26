@@ -77,7 +77,7 @@ Currently, I am active in the industry as a **SOC Analyst**, where I monitor glo
 ---
 
 ## 🎓 Education
-**B.S. Information Technology (Cybersecurity)** *Bahria University, Lahore Campus (Expected Graduation: 2026)*
+**B.S. Information Technology (Cybersecurity)** *Bahria University, Lahore Campus (Expected Graduation: June 2026)*
 
 ---
 
