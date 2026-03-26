@@ -66,11 +66,11 @@ Currently, I am active in the industry as a **SOC Analyst**, where I monitor glo
 ---
 
 ## 📜 Certifications
-- **Google Cloud Foundations:** Networking & Security[Google Cloud Skills Boost](https://www.skills.google/public_profiles/cb3bbbd3-6791-4ac1-ada5-5ba1d3107146/badges/20261236)
+- **Google Cloud Foundations:** Networking & Security | [Google Cloud Skills Boost](https://www.skills.google/public_profiles/cb3bbbd3-6791-4ac1-ada5-5ba1d3107146/badges/20261236)
 - **Purple Team:** Active Directory & Azure AD v1 | [RedTeamLeaders](https://courses.redteamleaders.com/completion/9157335fac4cfc7b)
 - **Introduction to Offensive Security with Artificial Intelligence** | [RedTeamLeaders](https://courses.redteamleaders.com/completion/9d65ac096d131ca1)
 - **Offensive Development Introduction for Windows v1** | [RedTeamLeaders](https://courses.redteamleaders.com/completion/4149f41b52c42e56)
--- **Critical Infrastructure Protection (ICIP)** | [OPSWAT Academy](https://learn.opswatacademy.com/certificate/8i94QC4jbw)
+- **Critical Infrastructure Protection (ICIP)** | [OPSWAT Academy](https://learn.opswatacademy.com/certificate/8i94QC4jbw)
 - **Certified Phishing Prevention Specialist (CPPS)** |[Hack & Fix](blob:https://academy.hackandfix.com/4f1761b1-03c6-4185-beb0-9ed4e105a282)
 - **Cybersecurity Job Simulation** | [Mastercard Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_P7gNmdFb5Td2fXg3P_1725277323392_completion_certificate.pdf)
 
