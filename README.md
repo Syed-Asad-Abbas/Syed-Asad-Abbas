@@ -66,7 +66,7 @@ Currently, I am active in the industry as a **SOC Analyst**, where I monitor glo
 ---
 
 ## 📜 Certifications
- **Google Cloud Foundations:** Networking & Security[Google Cloud Skills Boost](https://www.skills.google/public_profiles/cb3bbbd3-6791-4ac1-ada5-5ba1d3107146/badges/20261236)
+- **Google Cloud Foundations:** Networking & Security[Google Cloud Skills Boost](https://www.skills.google/public_profiles/cb3bbbd3-6791-4ac1-ada5-5ba1d3107146/badges/20261236)
 - **Purple Team:** Active Directory & Azure AD v1 | [RedTeamLeaders](https://courses.redteamleaders.com/completion/9157335fac4cfc7b)
 - **Introduction to Offensive Security with Artificial Intelligence** | [RedTeamLeaders](https://courses.redteamleaders.com/completion/9d65ac096d131ca1)
 - **Offensive Development Introduction for Windows v1** | [RedTeamLeaders](https://courses.redteamleaders.com/completion/4149f41b52c42e56)
