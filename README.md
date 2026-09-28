@@ -19,23 +19,20 @@ Alongside Shopify work, I build full-stack web apps and AI-assisted tools using 
 ---
 
 ## 🚀 Featured Projects
-
-### XIV Fashion Store — Custom Shopify Theme (Dawn)
+ 
+### [XIV Fashion Store — Custom Shopify Theme (Dawn)](https://github.com/Syed-Asad-Abbas/Fashion-Store/tree/devloper)
 **Tech Stack:** Shopify CLI, Liquid, JavaScript, HTML5, Tailwind CSS, Figma
 - Built a custom Shopify Online Store 2.0 theme from the Dawn framework with dynamic sections and custom brand styling.
 - Shoppable homepage photo gallery with interactive hotspots, quick-view modals, variant selection, and AJAX cart additions with no page reloads.
-
-### Shopify Product Configurator & Live Checkout
+### [Shopify Product Configurator & Live Checkout](https://github.com/Syed-Asad-Abbas/shopify-Home-Bundle-Builder/tree/devloper)
 **Tech Stack:** Shopify Liquid, JavaScript (ES6+), AJAX API, CSS3
 - Single-page product configurator with a multi-step customization flow and live order-summary panel.
 - Real-time dynamic pricing, variant calculation, and discount updates, routing configured items directly into Shopify checkout via AJAX.
-
-### RAG-Powered E-Commerce Concierge
+### [RAG-Powered E-Commerce Concierge](https://github.com/Syed-Asad-Abbas/Luminara)
 **Tech Stack:** Next.js, Express.js, MongoDB Atlas Vector Search, OpenAI APIs, Tailwind CSS
 - Full-stack AI-powered e-commerce assistant supporting semantic product search and customer support workflows.
 - Vector search and LLM tool calling to retrieve inventory data dynamically and generate context-aware responses.
-
-### Multimodal Web Intelligence & Analytics Platform
+### [Multimodal Web Intelligence & Analytics Platform](https://github.com/Syed-Asad-Abbas/Multimodal-Phishing-Detection-System)
 **Tech Stack:** React, Node.js, Flask, Python, ResNet-50, LightGBM, REST APIs
 - Full-stack web analysis platform with a responsive React frontend and Express/Flask microservice architecture.
 - Automated heuristic-extraction pipelines and machine learning classification endpoints to evaluate dynamic URL and DOM payloads.
@@ -90,8 +87,7 @@ Alongside Shopify work, I build full-stack web apps and AI-assisted tools using 
   <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
-</div>certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_P7gNmdFb5Td2fXg3P_1725277323392_completion_certificate.pdf)
-
+</div>
 ---
 
 ## 🎓 Education
