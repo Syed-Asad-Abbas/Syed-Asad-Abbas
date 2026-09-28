@@ -3,81 +3,99 @@
 <a href="https://linkedin.com/in/SyedAsadAbbas1815"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://syedasadabbas.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
-I am a **BS Information Technology Graduate (2026)** specializing in **Cybersecurity**, with a deep focus on SOC operations, SIEM engineering, and AI-driven threat detection. My expertise lies in bridging the gap between traditional defensive security and modern machine learning to automate and enhance incident response.
+I'm a **Shopify and Full-Stack Web Developer** (BS Information Technology, 2026) specializing in **Shopify Online Store 2.0 theme development**, **Liquid**, and **JavaScript-based storefront engineering** — from custom themes and AJAX cart/checkout flows to the React/Node.js tooling around them. I like translating Figma designs into pixel-perfect, responsive storefronts and building the backend/API layer that supports them.
 
-Currently, I am active in the industry as a **SOC Analyst**, where I monitor global infrastructure, perform deep-dive log analysis, and harden environments against evolving threats.
+Alongside Shopify work, I build full-stack web apps and AI-assisted tools using **React**, **Next.js**, **Node.js/Express**, and **Python** — including a couple of AI-powered e-commerce projects using vector search and LLM APIs.
 
 ---
 
-## 🛡️ Professional Experience
+## 🛒 Professional Experience
 
-### **SOC Analyst (Security Operations Intern)** **Zee outSourcing UK Private Limited (Remote)** | *Jan 2025 – Feb 2026*
-- Monitor and triage security alerts via **Wazuh** and **Splunk** for UK-based infrastructure, maintaining a 99% SLA.
-- Orchestrate incident lifecycles within **Jira** and **ServiceNow**, ensuring rapid response and detailed documentation.
-- Perform deep-dive **log analysis** and **File Integrity Monitoring (FIM)** to detect and isolate Indicators of Compromise (IoCs).
-- Configure and troubleshoot secure remote access (**VPN**) and firewall policies (**pfSense**) for a distributed workforce.
-- Utilize **KQL** and **SPL** to query complex datasets and visualize global attack trends for executive reporting.
-
-### **Security Researcher / SOC** **Cyberster** | *March 2026 – June 2026*
-- Work in a Team and start investigating security events using **LimaCharlie EDR** and **Wazuh SIEM**.
-- Developed custom detection rules and automated response playbooks to reduce "Mean Time to Detect" (MTTD).
-- Focused on identifying and mitigating **Active Directory** and **Azure AD** attack vectors.
+### **Full Stack Developer** — **Zee Outsourcing Solutions PVT LTD (Remote, UK)** | *Jan 2026 – Present*
+- Develop and maintain responsive full-stack web applications and custom e-commerce modules, pairing JavaScript-based frontend work with backend REST APIs.
+- Build reusable frontend components and optimize asynchronous data fetching for faster, more responsive UIs.
+- Translate Figma design mockups into responsive, cross-browser-compatible interfaces in collaboration with cross-functional teams.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Multimodal Phishing Detection & AI Explainability](https://github.com/syedasadabbas1815/)
-- Developed a hybrid detection framework using **ResNet50** (visual similarity) and URL heuristics to identify zero-day phishing sites.
-- Integrated **SHAP (Explainable AI)** to provide human-readable transparency for AI-driven security alerts, helping analysts understand "why" a site was flagged.
+### XIV Fashion Store — Custom Shopify Theme (Dawn)
+**Tech Stack:** Shopify CLI, Liquid, JavaScript, HTML5, Tailwind CSS, Figma
+- Built a custom Shopify Online Store 2.0 theme from the Dawn framework with dynamic sections and custom brand styling.
+- Shoppable homepage photo gallery with interactive hotspots, quick-view modals, variant selection, and AJAX cart additions with no page reloads.
 
-### [Custom SOC Simulation & Attack Visualization](https://honeypotdashboard.netlify.app/)
-- Architected a high-interaction deception environment capturing real-world **RDP brute-force attacks**.
-- Built a live dashboard using **React.js** that transforms raw Windows security telemetry into interactive global threat intelligence.
+### Shopify Product Configurator & Live Checkout
+**Tech Stack:** Shopify Liquid, JavaScript (ES6+), AJAX API, CSS3
+- Single-page product configurator with a multi-step customization flow and live order-summary panel.
+- Real-time dynamic pricing, variant calculation, and discount updates, routing configured items directly into Shopify checkout via AJAX.
+
+### RAG-Powered E-Commerce Concierge
+**Tech Stack:** Next.js, Express.js, MongoDB Atlas Vector Search, OpenAI APIs, Tailwind CSS
+- Full-stack AI-powered e-commerce assistant supporting semantic product search and customer support workflows.
+- Vector search and LLM tool calling to retrieve inventory data dynamically and generate context-aware responses.
+
+### Multimodal Web Intelligence & Analytics Platform
+**Tech Stack:** React, Node.js, Flask, Python, ResNet-50, LightGBM, REST APIs
+- Full-stack web analysis platform with a responsive React frontend and Express/Flask microservice architecture.
+- Automated heuristic-extraction pipelines and machine learning classification endpoints to evaluate dynamic URL and DOM payloads.
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-### **SIEM / XDR / EDR**
+### **Shopify**
 <div>
-  <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lima%20Charlie-00B2A9?&style=for-the-badge&logo=lima-charlie&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shopify-7AB55C?&style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Liquid-00B2A9?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Shopify_CLI-000000?&style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?&style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
-### **Network & Infrastructure Defense**
+### **Frontend**
 <div>
-  <img src="https://img.shields.io/badge/-pfSense-EB1C24?&style=for-the-badge&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Active_Directory-0089D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
-### **AI Security & Development**
+### **Backend & APIs**
 <div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?&style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SHAP%20(XAI)-5C2D91?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
----
+### **Databases**
+<div>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-## 📜 Certifications
-- **Google Cloud Foundations:** Networking & Security | [Google Cloud Skills Boost](https://www.skills.google/public_profiles/cb3bbbd3-6791-4ac1-ada5-5ba1d3107146/badges/20261236)
-- **Purple Team:** Active Directory & Azure AD v1 | [RedTeamLeaders](https://courses.redteamleaders.com/completion/9157335fac4cfc7b)
-- **Introduction to Offensive Security with Artificial Intelligence** | [RedTeamLeaders](https://courses.redteamleaders.com/completion/9d65ac096d131ca1)
-- **Offensive Development Introduction for Windows v1** | [RedTeamLeaders](https://courses.redteamleaders.com/completion/4149f41b52c42e56)
-- **Critical Infrastructure Protection (ICIP)** | [OPSWAT Academy](https://learn.opswatacademy.com/certificate/8i94QC4jbw)
-- **Certified Phishing Prevention Specialist (CPPS)** | [Hack & Fix](https://academy.hackandfix.com/student-public-account/1192/)
-- **Cybersecurity Job Simulation** | [Mastercard Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_P7gNmdFb5Td2fXg3P_1725277323392_completion_certificate.pdf)
+### **AI / Automation**
+<div>
+  <img src="https://img.shields.io/badge/-OpenAI_API-412991?&style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vector_Search-5C2D91?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-n8n-EA4B71?&style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
+
+### **Tools**
+<div>
+  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
+</div>certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_P7gNmdFb5Td2fXg3P_1725277323392_completion_certificate.pdf)
 
 ---
 
 ## 🎓 Education
-**B.S. Information Technology (Cybersecurity)** *Bahria University, Lahore Campus (Expected Graduation: June 2026)*
+**B.S. Information Technology** *Bahria University, Lahore Campus (Expected Graduation: June 2026)*
 
 ---
 
